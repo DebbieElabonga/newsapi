@@ -1,0 +1,25 @@
+body{
+    font: 1em sans-serif;
+    background-color: burlywood,rgb(117, 90, 54);
+    
+}
+*img{
+    height: 320px;
+    width: 320px;
+}
+.icons{
+    list-style-type: none;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+}
+.icons li{
+    display: inline-block;
+    padding-right: 30px;
+    font-size: 200px;
+    text-align: center;
+    margin-right: 30px;
+}
+h2{
+    text-align: center;
+}
